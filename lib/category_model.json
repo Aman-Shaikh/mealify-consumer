@@ -1,0 +1,37 @@
+{
+  "categories":[
+    {
+      "name": "Appetizers",
+      "subcategories": [
+        "Jeans",
+        "Shirt",
+        "T-shirt",
+        "Jacket",
+        "Sportwear",
+        "Suit"
+      ]
+    },
+    {
+      "name": "MainCourses",
+      "subcategories": [
+        "Jeans",
+        "Shirt",
+        "T-shirt",
+        "Jacket",
+        "Sportwear",
+        "Suit"
+      ]
+    },
+    {
+      "name": "Desserts",
+      "subcategories": [
+        "Jeans",
+        "Shirt",
+        "T-shirt",
+        "Jacket",
+        "Sportwear",
+        "Suit"
+      ]
+    }
+  ]
+}
